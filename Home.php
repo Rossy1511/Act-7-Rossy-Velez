@@ -1,5 +1,5 @@
 <?php
-/*ROSSY ANGIE VELEZ PAREDES UTM
+/*ROSSY ANGIE VELEZ PAREDES - VICTOR MOREIRA RUIZ
 */
 namespace App\Controllers;
 
